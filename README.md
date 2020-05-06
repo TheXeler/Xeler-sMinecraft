@@ -1,2 +1,2 @@
 # Xeler-sMinecraft
-Minecraft RPG Plugins(Only Sponge!)
+个人MinecraftSponge插件库，主要发布RPG相关内容
